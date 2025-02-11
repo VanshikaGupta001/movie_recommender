@@ -7,7 +7,7 @@ This project is a Movie Recommendation System built using collaborative filterin
 
 <b>Features</b>
 
-Loads the MovieLens recent ratings dataset from Hugging Face.
+Loads the MovieLens recent ratings dataset.
 
 Uses Surprise library for collaborative filtering via SVD.
 
